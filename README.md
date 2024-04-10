@@ -1,8 +1,14 @@
 # Journey through Neural Networks: From Perceptron to Variational Autoencoders
 ---
-![DL2](https://github.com/alecruces/NeuralNetworkJourney/assets/67338986/a0a269c5-93dd-4d65-ad35-bdb4e7d287d6)
 
-## Notebooks description
+##  Description 
+This project aims to provide a comprehensive exploration and understanding of various types of neural networks, ranging from foundational models like perceptrons, to advanced architectures such as variational autoencoders. Each part of the project delves into the principles, optimization techniques, and practical applications of different neural network models. 
+
+<p align="center">
+<img src="https://github.com/alecruces/NeuralNetworkJourney/assets/67338986/a0a269c5-93dd-4d65-ad35-bdb4e7d287d6" alt="DL2" style="width:400px;height:auto;"/>
+</p>
+
+## Notebooks
 * HW1: from the Perceptron to DNN
 * HW2: Optimize and Train Deep Models
 * HW3: Convolutional Neural Networks
@@ -10,8 +16,6 @@
 * HW5: Autoencoders
 * HW6: Variational Autoencoders
 
-##  Description 
-This project aims to provide a comprehensive exploration and understanding of various types of neural networks, ranging from foundational models like perceptrons, to advanced architectures such as variational autoencoders. Each part of the project delves into the principles, optimization techniques, and practical applications of different neural network models. 
 
 ##  Keywords
  Neural Networks, Deep Learning, Perceptron, Convolutional Neural Networks, Recurrent Neural Networks, Variational Autoencoders
@@ -33,4 +37,11 @@ This project aims to provide a comprehensive exploration and understanding of va
 * Variational Autoencoders (VAE)
 
 ## Files  
-* Code in notebooks and .py
+* Code:
+1. `HW1.ipynb`: From the Perceptron to DNN
+2. `HW2.ipynb`: Optimize and Train Deep Models
+3. `HW3.ipynb`: Convolutional Neural Networks
+4. `HW4.ipynb`: Recurrent Neural Networks & Transformer
+5. `HW5.ipynb`: Autoencoders
+6. `HW6.ipynb`: Variational Autoencoders
+
